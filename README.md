@@ -9,12 +9,12 @@
 - 📫 How to reach me **arezoomandiazar@gmail.com**
 
 <h3 align="left">🌐 Socials:</h3>
-<p align="left" background="red">
+<p align="left">
 <a href="https://linkedin.com/in/azar-arezoomandi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="azar-arezoomandi" height="30" width="40" /></a>
 <a href="https://instagram.com/azar.arezoomandi_web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="azar.arezoomandi_web" height="30" width="40" /></a>
 </p>
 <h2>🏆 GitHub Trophies</h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azar-arezoomandi-web&label=Profile%20views&color=0e75b6&style=flat" alt="azar-arezoomandi-web" /> </p>
+<p align="left"  background="red"> <img src="https://komarev.com/ghpvc/?username=azar-arezoomandi-web&label=Profile%20views&color=0e75b6&style=flat" alt="azar-arezoomandi-web" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azar-arezoomandi-web" alt="azar-arezoomandi-web" /></a> </p>
 
