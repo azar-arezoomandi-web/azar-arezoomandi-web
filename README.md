@@ -1,4 +1,4 @@
-<img align="center" src="![gif](https://github.com/azar-arezoomandi-web/azar-arezoomandi-web/assets/144945975/c5ceeca7-639f-48df-bfe0-02e3ffd5cb7b)" alt="azar-arezoomandi" height="100" width="100" />
+<img src="![gif](https://github.com/azar-arezoomandi-web/azar-arezoomandi-web/assets/144945975/c5ceeca7-639f-48df-bfe0-02e3ffd5cb7b)"
 <h1 align="center">Hi 👋, I'm Azar Arezoomandi</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
