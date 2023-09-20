@@ -1,16 +1,18 @@
 ![gif](https://github.com/azar-arezoomandi-web/azar-arezoomandi-web/assets/144945975/c5ceeca7-639f-48df-bfe0-02e3ffd5cb7b)
 <h1 align="center">Hi 👋, I'm Azar Arezoomandi</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azar-arezoomandi-web&label=Profile%20views&color=0e75b6&style=flat" alt="azar-arezoomandi-web" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azar-arezoomandi-web" alt="azar-arezoomandi-web" /></a> </p>
-
+<h2 align="left">💫 About Me:</h2>
 - 👨‍💻 All of my projects are available at [https://github.com/azar-arezoomandi-web](https://github.com/azar-arezoomandi-web)
 
 - 💬 Ask me about **React,Javascript,BootStrap,Css3,Html5**
 
 - 📫 How to reach me **arezoomandiazar@gmail.com**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=azar-arezoomandi-web&label=Profile%20views&color=0e75b6&style=flat" alt="azar-arezoomandi-web" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azar-arezoomandi-web" alt="azar-arezoomandi-web" /></a> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
