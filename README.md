@@ -1,4 +1,4 @@
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="azar-arezoomandi" height="30" width="40" />
+<img align="center" src="![gif](https://github.com/azar-arezoomandi-web/azar-arezoomandi-web/assets/144945975/c5ceeca7-639f-48df-bfe0-02e3ffd5cb7b)" alt="azar-arezoomandi" height="100" width="100" />
 <h1 align="center">Hi 👋, I'm Azar Arezoomandi</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
