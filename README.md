@@ -9,7 +9,7 @@
 - 📫 How to reach me **arezoomandiazar@gmail.com**
 
 <h3 align="left">🌐 Socials:</h3>
-<p align="left">
+<p align="left" background="red">
 <a href="https://linkedin.com/in/azar-arezoomandi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="azar-arezoomandi" height="30" width="40" /></a>
 <a href="https://instagram.com/azar.arezoomandi_web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="azar.arezoomandi_web" height="30" width="40" /></a>
 </p>
